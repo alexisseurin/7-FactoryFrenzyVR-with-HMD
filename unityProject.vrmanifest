@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrcesinanterre2024alexis.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\User\\Desktop\\ALEXIS\\FactoryFrenzyVR\\FactoryFrenzyVR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR-CESI-Nanterre-2024-Alexis [Testing]"
+        }
+      }
+    }
+  ]
+}
